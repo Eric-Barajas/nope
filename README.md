@@ -1,4 +1,4 @@
-<div width="100%" height="">
+<div width="100%" height="200px">
   <img src="./img/Eric-Barajas.gif" alt="animated banner" />
 </div>
 
